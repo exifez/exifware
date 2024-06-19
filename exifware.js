@@ -6,9 +6,7 @@
 // @exclude     https://krunker.io/social.html*
 // @exclude     https://krunker.io/editor.html*
 // @exclude     https://krunker.io/viewer.html*
-																																																																																																																																																																																																																																																																																																									// @icon        https://github.com/Documantation12/Fembot-Krunker-Cheat/assets/134162456/0d1e46d9-1c86-45ca-9740-0752716cb52c
-// @grant       none
-// @version     1.3.0
+//@icon         https://github.com/exifez/exifware/blob/dbd5cc15acd4905bf4e78711c9c8a09253098d3b/1900x1900-000000-80-0-0.jpg
 // @author      exif
 // @description exifware
 // @run-at      document-start
