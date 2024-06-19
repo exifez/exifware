@@ -6,7 +6,9 @@
 // @exclude     https://krunker.io/social.html*
 // @exclude     https://krunker.io/editor.html*
 // @exclude     https://krunker.io/viewer.html*
-//@icon         https://github.com/exifez/exifware/blob/dbd5cc15acd4905bf4e78711c9c8a09253098d3b/1900x1900-000000-80-0-0.jpg
+// @icon        https://github.com/exifez/exifware/blob/dbd5cc15acd4905bf4e78711c9c8a09253098d3b/1900x1900-000000-80-0-0.jpg
+// @grant       none
+// @version     1.3.0
 // @author      exif
 // @description exifware
 // @run-at      document-start
